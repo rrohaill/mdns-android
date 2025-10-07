@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/broadcaster/build/
+/broadcaster/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/broadcaster/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/
+/build/
+/receiver/build/
+/receiver/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
